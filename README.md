@@ -40,7 +40,7 @@ npm run start
 * Making code readable and documentation
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Creative Commons Zero v1.0 Universal License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 I would like to thank Jonas Schmedtmann (@jonasschmedtmann) for his highly extensive, educational and practical JavaScript Course which taught me more JS than I could have imagined, all from scratch. Deeply enjoyed this course. 
