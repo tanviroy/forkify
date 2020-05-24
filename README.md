@@ -26,13 +26,13 @@ npm run start
 
 ## Screenshots
 ![Enter your query in the Search Bar!](https://user-images.githubusercontent.com/61850850/82748691-af172500-9dc1-11ea-828b-97c8136037fd.png)
-Enter your query in the Search Bar!
+Enter your query in the Search Bar!  
 
 ![Choose from a variety of recipes to see a brief overview!](https://user-images.githubusercontent.com/61850850/82748742-f56c8400-9dc1-11ea-815a-a144f74badf3.png)
-Choose from a variety of recipes to get a brief overview of the recipe!
+Choose from a variety of recipes to get a brief overview of the recipe!  
 
 ![Change serving size and Add Ingredients to your Shopping List!](https://user-images.githubusercontent.com/61850850/82748743-f7cede00-9dc1-11ea-849f-caf96b9f18e2.png)
-Change serving size and Add the ingredients to your Shopping List!
+Change serving size and Add the ingredients to your Shopping List!  
 
 ## Limitations
 * There are only a limited number of queries that can be searched for - [Possible searches](http://forkify-api.herokuapp.com/phrases.html) 
