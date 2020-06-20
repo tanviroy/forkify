@@ -1,4 +1,4 @@
-# Forkify - A Recipe Finding Web app 🥣 🍴
+# Forkify - A Recipe Finding Web app 🥣🍴
 #### Date of completion: 23rd May 2020
 
 [https://tanviroy-forkify.netlify.app/](https://tanviroy-forkify.netlify.app/)
